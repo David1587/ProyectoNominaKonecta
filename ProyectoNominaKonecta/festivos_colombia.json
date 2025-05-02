@@ -1,0 +1,12 @@
+[
+    { "fecha": "2024-01-01", "nombre": "Año Nuevo" },
+    { "fecha": "2024-03-25", "nombre": "Lunes Santo" },
+    { "fecha": "2024-03-28", "nombre": "Jueves Santo" },
+    { "fecha": "2024-03-29", "nombre": "Viernes Santo" },
+    { "fecha": "2024-05-01", "nombre": "Día del Trabajo" },
+    { "fecha": "2024-06-10", "nombre": "Corpus Christi" },
+    { "fecha": "2024-07-20", "nombre": "Día de la Independencia" },
+    { "fecha": "2024-08-07", "nombre": "Batalla de Boyacá" },
+    { "fecha": "2024-12-08", "nombre": "Día de la Inmaculada Concepción" },
+    { "fecha": "2024-12-25", "nombre": "Navidad" }
+]
